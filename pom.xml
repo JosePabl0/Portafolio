@@ -55,6 +55,9 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+                
+                <!-- faltan las dependencias no estan en el chat de teams -->
+                
 	</dependencies>
 
 	<build>
